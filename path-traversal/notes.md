@@ -1,0 +1,1 @@
+In realm of server-side vulnerabilities we have many types of vulnerabilities in which one of them is **Path Traversal** or (Directory Traversal). this technique enables us to read arbitrary files on the server running an application like a webpage.
